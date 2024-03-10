@@ -187,7 +187,9 @@ nav ul li a {
     width: 100%; /* Make the input full width */
     margin-right: 0; /* Remove right margin */
   }
-
+  .SearchBar input[type="text"] {
+    width: 200px; 
+  }
   /* Adjust the button size for smaller screens */
   .Search_Bar button {
     padding: 10px; /* Reduce padding */
@@ -198,7 +200,7 @@ nav ul li a {
   }
 
   .logo {
-    width: 180px; /* Reduce logo size for smaller screens */
+    width: 150px; /* Reduce logo size for smaller screens */
   }
 
   /* nav ul {
