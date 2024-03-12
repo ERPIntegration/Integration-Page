@@ -5,12 +5,7 @@
     "link": "https://examcell.vercel.app/",
     "photo": "images/examcell.jpg"
   },
-  {
-    "title": "NSS Unit of SIES GST",
-    "description": "",
-    "link": "https://colderhold.github.io/nss.siesgst/index.html",
-    "photo": "images/nss.png"
-  },
+ 
   {
     "title": "Feedback Module",
     "description": "Share your feedback ",
@@ -18,21 +13,16 @@
     "photo": "images/feedback.jpg"
   },
   {
-    "title": "Module",
-    "description": "Description for Module 4",
-    "link": "https://siesfeedback.vercel.app/",
-    "photo": "images/feedback.jpg"
+    "title": "NSS Unit of SIES GST",
+    "description": "",
+    "link": "https://colderhold.github.io/nss.siesgst/index.html",
+    "photo": "images/nss.png"
   },
   {
-    "title": "Module",
-    "description": "Description for Module 5",
-    "link": "https://siesfeedback.vercel.app/",
-    "photo": "images/feedback.jpg"
-  },
-  {
-    "title": "Module",
-    "description": "Description for Module 6",
-    "link": "https://siesfeedback.vercel.app/",
-    "photo": "images/feedback.jpg"
+    "title": "Session Planer Module",
+    "description": "Generate session plan for Teachers",
+    "link": "https://sessionplan1.onrender.com",
+    "photo": "images/Session.jpeg"
   }
+  
 ]
