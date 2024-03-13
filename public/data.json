@@ -2,14 +2,14 @@
   {
     "title": "Exam Cell Module",
     "description": "Download hall tickets for exams.",
-    "link": "https://examcell.vercel.app/",
+    "link": "http://siesexamcell.netlify.app",
     "photo": "images/examcell.jpg"
   },
  
   {
     "title": "Feedback Module",
     "description": "Feedback Portal for Students",
-    "link": "https://siesfeedback.vercel.app/",
+    "link": "http://siesfeedback.netlify.app",
     "photo": "images/feedback.jpg"
   },
   {
