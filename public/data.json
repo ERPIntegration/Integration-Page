@@ -8,13 +8,13 @@
  
   {
     "title": "Feedback Module",
-    "description": "Share your feedback ",
+    "description": "Feedback Portal for Students",
     "link": "https://siesfeedback.vercel.app/",
     "photo": "images/feedback.jpg"
   },
   {
     "title": "NSS Unit of SIES GST",
-    "description": "",
+    "description": "NSS Unit of SIES GST ",
     "link": "http://nss-siesgst.vercel.app",
     "photo": "images/nss.png"
   },
