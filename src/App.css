@@ -97,6 +97,12 @@ nav ul li a {
 .card a{
   text-decoration: none;
   color: whitesmoke;
+  background-color: rgb(29, 64, 103);
+  color: rgb(249, 163, 28);
+}
+.card-body a {
+  text-decoration: none;
+  color: whitesmoke;
 }
 
 /* Increase the size of the search input */
